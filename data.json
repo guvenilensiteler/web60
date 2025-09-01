@@ -239,11 +239,35 @@
         "sites": [
           {
             "site": "mersobahis",
-            "sort": "0"
+            "sort": "1"
           },
           {
             "site": "amgbahis",
-            "sort": "1"
+            "sort": "2"
+          },
+          {
+            "site": "bahiscom",
+            "sort": "3"
+          },
+          {
+            "site": "mariobet",
+            "sort": "4"
+          },
+          {
+            "site": "betkom",
+            "sort": "5"
+          },
+          {
+            "site": "bankobet",
+            "sort": "6"
+          },
+          {
+            "site": "betewin",
+            "sort": "7"
+          },
+          {
+            "site": "tarafbet",
+            "sort": "8"
           }
         ]
       },
